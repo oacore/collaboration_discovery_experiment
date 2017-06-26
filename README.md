@@ -24,5 +24,4 @@ Run create_cache python notebook to populate /data folder with cached data to be
 
 ## Run
 
-jupyter notebook
-select tdm demo.ipynb
+select the "tdm demo.ipynb" notebook and run it.
