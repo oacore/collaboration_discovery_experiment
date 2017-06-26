@@ -8,13 +8,11 @@ To run python notebooks you would need a notebook server. The best way to instal
 https://www.continuum.io/downloads
 
 After you install anaconda, run in the command line:
-
+```
 git clone https://github.com/oacore/collaboration_discovery_experiment.git
-
 cd collaboration_discovery_experiment
-
 jupyter notebook
-
+```
 
 A server will start on http://localhost:8888 showing all the available notebooks of the current folder.
 
